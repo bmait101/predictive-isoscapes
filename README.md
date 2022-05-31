@@ -1,5 +1,10 @@
 # Predictive Isoscapes
 
+Coolaborators:
+- [Dr. Merav Ben-David (U Wyoming)](http://www.uwyo.edu/zoology/people/bendavid.html)
+- [Dr. Willie Fetzer (U Wyoming)](https://wwfetzer.weebly.com/)
+- [Caroline Rosinski (U Wyoming)](https://carolinerosinski.wordpress.com/)
+
 Mixing models that use stable isotope data are a powerful tool for examining animal diets and inferring trophic structure in ecological communities 
 
 But numerous factors and assumptions (e.g., a large number of potential prey and variation or correlation among isotopic signatures of prey) can lead to erroneous interpretations of model results. 

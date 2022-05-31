@@ -1,3 +1,7 @@
+# Compile isotope data for analysis
+
+# NOTE: data / analyses are prelimiary and subject to change. 
+
 library(tidyverse)
 
 ### Read in data and tidy

@@ -444,6 +444,6 @@ Mean point estimates (Median, 95% Credible Intervals) for estimated diet contrib
     Isopoda (gathering isopods)       = 0.05 (0.02, 0.00-0.21)
 
 
-# Referecnes
-
 ---
+
+# Referecnes
